@@ -1,0 +1,8 @@
+openapi: 3.1.0
+info:
+  title: Calculator with Past Results
+  version: 1.0.0
+  description: >
+    This project has no HTTP API. All logic runs in the browser.
+    Module interfaces are documented in docs/CONTRACT.md under "API contracts".
+paths: {}
